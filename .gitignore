@@ -1,4 +1,4 @@
 .env
 api.env
 __pycache__/
-logs/
+logs/git init
